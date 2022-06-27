@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @verike
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ... HTML, CSS and Python.
+- 🌱 I’m currently learning ... HTML, CSS, JavaScript and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... on Twitter with https://twitter.com/_verike
 
