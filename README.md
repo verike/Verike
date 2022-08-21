@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Verike
-- 👀 I’m interested in ... Tech
+- 👀 I’m interested in everything Tech!
 - 🌱 I’m currently learning ... HTML, CSS, JavaScript and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... on Twitter with https://twitter.com/_verike or through LinkedIn https://www.linkedin.com/in/victorerike
