@@ -1,7 +1,7 @@
 <h2> Hi, I’m Victor Erike (VErike) 👋🏾 </h2>
 
 <p>
-I am a Software Engineer currently building with Node JS, learning about TypeScript.
+I am a Software Engineer currently building with ExpressJS on NodeJs, learning TypeScript.
 </p>
 
 
